@@ -1,0 +1,1 @@
+This is a sample website for an hotel from Brad Traversy's course "Modern HTML & CSS From The Beginning" on Udemy.
